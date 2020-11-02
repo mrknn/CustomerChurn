@@ -1,0 +1,3 @@
+Churn analysis is the evaluation of a company's customer loss rate in order to reduce it. Churn can be minimized by assessing the product, and how and which people use it, following a data driven approach. This makes churn analysis a fundamental tool in customer retention.
+
+In this notebook, customers of a Telco are considered. An Extreme Gradient Boosting model is built, to predict whether a customer is likely to leave the company or not. This model is widely used by data scientists to achieve state-of-the-art results on many machine learning challenges.
